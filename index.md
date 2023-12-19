@@ -5,3 +5,9 @@
 My work about [Homework 1](https://github.com/BU-IE-582/fall-23-rabiagul0311/tree/main/Homework1) can be seen in this [HTML file](Homework1/HW1_notebook_Rabia_gul_celik.html).
 ### Code
 My Jupyter notebook for Homework 1 is [here](https://github.com/BU-IE-582/fall-23-rabiagul0311/blob/main/Homework1/HW1_code.ipynb). 
+
+## Homework 2
+### Html file
+My work about [Homework 2](https://github.com/BU-IE-582/fall-23-rabiagul0311/tree/main/Homework2) can be seen in this [HTML file](Homework2/HW2_notebook_Rabia_gul_celik.html).
+### Code
+My Jupyter notebook for Homework 2 is [here](https://github.com/BU-IE-582/fall-23-rabiagul0311/blob/main/Homework2/HW2_code.ipynb). 
