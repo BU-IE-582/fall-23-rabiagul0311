@@ -16,4 +16,4 @@ My Jupyter notebook for Homework 2 is [here](https://github.com/BU-IE-582/fall-2
 ### Project Report
 The work of my group about [Term Project](https://github.com/BU-IE-582/fall-23-rabiagul0311/tree/main/Project) can be seen in this [PDF file](Project/Project%20Report.pdf).
 ### Code
-Our Jupyter notebooks for Term Project are [here](https://github.com/BU-IE-582/fall-23-rabiagul0311/tree/main/Project). 
+Our Codes and Data for Term Project are [here](https://github.com/BU-IE-582/fall-23-rabiagul0311/tree/main/Project). 
